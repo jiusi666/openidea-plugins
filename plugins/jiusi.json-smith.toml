@@ -1,0 +1,7 @@
+repository = "https://github.com/jiusi666/openidea-json-smith"
+suggest = ["package.json", "tsconfig.json", "composer.json"]
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/jiusi666/openidea-json-smith/releases/download/v0.1.0/jiusi.json-smith-0.1.0.oiplugin"
+sha256 = "34b6fa24c40ad5204e5c0afc700aa70c97657c38e38c491842166ca04f6b66dd"
